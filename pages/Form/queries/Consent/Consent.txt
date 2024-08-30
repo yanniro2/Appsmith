@@ -1,0 +1,10 @@
+{
+   "application":{
+		 "stage":"application",
+		 "id":"{{appsmith.URL.queryParams.appid}}",
+		 "consent":{
+		 "name":"{{Input1.text}}",
+		 "version":"2204.03.22"
+	 }
+	 }
+}

@@ -1,0 +1,12 @@
+{
+   "application": {
+		 "stage": "application",
+		 "id": "{{appsmith.URL.queryParams.appid}}",
+		 "consent": {
+		 "name": "{{Input1.text}}",
+		 "date": "{{moment().format('YYYY-MM-DD')}}",
+		 "version": "2204.03.22"
+	 }
+	 }
+}
+
